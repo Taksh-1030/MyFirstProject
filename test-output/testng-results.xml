@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-05T17:50:11 IST" name="Suite" finished-at="2023-08-05T17:50:57 IST" duration-ms="46456">
+    <groups>
+    </groups>
+    <test started-at="2023-08-05T17:50:11 IST" name="Test" finished-at="2023-08-05T17:50:57 IST" duration-ms="46456">
+      <class name="testcases.RegisterTestCases">
+        <test-method is-config="true" signature="LaunchBrowserandUrl()[pri:0, instance:testcases.RegisterTestCases@62379589]" started-at="2023-08-05T17:50:42 IST" name="LaunchBrowserandUrl" finished-at="2023-08-05T17:50:47 IST" duration-ms="5272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowserandUrl -->
+        <test-method signature="verifyRegister()[pri:0, instance:testcases.RegisterTestCases@62379589]" started-at="2023-08-05T17:50:47 IST" name="verifyRegister" finished-at="2023-08-05T17:50:57 IST" duration-ms="10032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegister -->
+      </class> <!-- testcases.RegisterTestCases -->
+      <class name="testcases.SearchTestCases">
+        <test-method is-config="true" signature="LaunchBrowserandUrl()[pri:0, instance:testcases.SearchTestCases@5c6648b0]" started-at="2023-08-05T17:50:11 IST" name="LaunchBrowserandUrl" finished-at="2023-08-05T17:50:19 IST" duration-ms="8313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowserandUrl -->
+        <test-method signature="Search()[pri:0, instance:testcases.SearchTestCases@5c6648b0]" started-at="2023-08-05T17:50:19 IST" name="Search" finished-at="2023-08-05T17:50:32 IST" duration-ms="13087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+      </class> <!-- testcases.SearchTestCases -->
+      <class name="testcases.logintestcases">
+        <test-method is-config="true" signature="LaunchBrowserandUrl()[pri:0, instance:testcases.logintestcases@3754a4bf]" started-at="2023-08-05T17:50:32 IST" name="LaunchBrowserandUrl" finished-at="2023-08-05T17:50:39 IST" duration-ms="7135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowserandUrl -->
+        <test-method signature="Login()[pri:0, instance:testcases.logintestcases@3754a4bf]" started-at="2023-08-05T17:50:39 IST" name="Login" finished-at="2023-08-05T17:50:42 IST" duration-ms="2493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- testcases.logintestcases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
